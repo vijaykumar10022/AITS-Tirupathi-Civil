@@ -1,0 +1,42 @@
+Offline Editors & Compillers:
+	Editors:
+		notepad,geany,notepad++,sublime,atom,editplus
+	Compillers:
+		TDM GCC Compiller,CC,MingCgw
+	Editors+Compillers(Ide's):
+		codeblock,turboc,devc++
+	
+onlinecompillers:
+	tutorialpoint,javatpoint,geekforgeek
+	
+Execution:
+	Compilation process
+	.c-->Source code(Human readable format)
+	.o-->object file(machine readable format)-Assembler
+	.exe-->Executable file/outputfile(human readable format)-Linker
+	
+	Windows&Linux:
+	
+	Windows:
+		command promt/window-->Win+R
+		
+			1).gcc sample.c 
+			2).a.exe
+				or
+			1).gcc sample.c -o s2
+			2).s2.exe
+			1).gcc ss1.c -o s1
+			2).s1.exe
+			
+			
+	Linux:
+		Terminal window
+			1).gcc sample.c
+			2). ./a.out
+					or
+			1).gcc sample.c -o s2
+			2). ./s2.out
+			1).gcc ss1.c -o s1
+			2). ./s1.out
+			1).gcc aits.c -o aits
+			2). ./aits.out
