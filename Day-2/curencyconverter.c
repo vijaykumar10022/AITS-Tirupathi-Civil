@@ -7,8 +7,8 @@ int main(){
 	//~ scanf("%d",&rupees);//reading value
 	//~ float Doller =rupees/68.96;//finding dollers
 	//~ printf("%d ₹ = %.1f $",rupees,Doller);//display Dollers
-		int arr[5]=[2, 3, 4, 1, 6];
-		printf("%u, %u, %un",arr, &arr[0], &arr);
+		int arr=[]2, 3, 4, 1, 6];
+		printf(""%u, %u, %un",arr, &arr0, &arr);
 	return 0;
 }
 
