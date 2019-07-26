@@ -1,5 +1,6 @@
 //~ while Loop Syntax:
 //~ ----------------
+	//pass
 //~ while(condition){
 		//~ statements;
 		//~ inc/decre;

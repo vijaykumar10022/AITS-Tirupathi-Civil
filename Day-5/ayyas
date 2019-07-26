@@ -1,0 +1,15 @@
+Arrays:collection of similar datatypes of elements
+-------
+types of arrays:
+	-->1d array
+				datatype arrayname[size]={ele1,ele2,ele3,...n};
+				ex float civil[5]={101.0,102.0,103.3,104,105}
+				printf("%d",civile[0]);//101
+				printf("%d",civile[1]);//102
+				printf("%d",civile[2]);//103
+				printf("%d",civile[3]);//104
+				printf("%d",civile[4]);//105
+				
+	-->2d array
+	-->multi dime arrays
+	
